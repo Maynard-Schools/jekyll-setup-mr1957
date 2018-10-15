@@ -1,7 +1,7 @@
-# jekyll-simple
+# jekyll-custom-fonts
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+## E-mail us with your logo and we will do our best to make it as professional as possible
+No design to big no logo to small
 
 Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
 
